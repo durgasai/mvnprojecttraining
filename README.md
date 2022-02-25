@@ -1,1 +1,1 @@
-# mvnprojecttraining02252022
+# mvnprojecttrainingdemo02252022
